@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/MapShapeTitleTemplate/MainPage.xaml) (VB: [MainPage.xaml](./VB/MapShapeTitleTemplate/MainPage.xaml))
+<!-- default file list end -->
 # How to customize the appearance of a map shape title
 
 
