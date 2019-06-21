@@ -4,6 +4,9 @@
 * [MainPage.xaml](./CS/MapShapeTitleTemplate/MainPage.xaml) (VB: [MainPage.xaml](./VB/MapShapeTitleTemplate/MainPage.xaml))
 <!-- default file list end -->
 # How to customize the appearance of a map shape title
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4262)**
+<!-- run online end -->
 
 
 <p>This example shows how to change the appearance of a map's dot title using its template. <br />
